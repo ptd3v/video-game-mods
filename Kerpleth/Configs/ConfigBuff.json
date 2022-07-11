@@ -1,0 +1,14 @@
+{
+		"10001": 
+		{
+			"effectId0": 1,
+			"target0": "MoveSpeedMultiplierVaule",
+			"effectValue0": 0.25,
+			"effectId1": 1,
+			"target1": "AttackMultiplierVaule",
+			"effectValue1": 0.25,
+			"effectId2": 1,
+			"target2": "AddCriticalChance",
+			"effectValue2": 0.25,
+		}
+}

@@ -1,0 +1,4 @@
+LanguageCode	┋	schinese	┋	english	┋	tchinese
+CreatureRace1	┋	提升	┋	Ascended	┋	提升
+CharacterisicDes1	┋	+25% 近战/远程伤害和 +25% 暴击率	┋	+25% Attack, Critical and Move Speed.	┋	+25% 近戰/遠程傷害和 +25% 暴擊率
+CharacterisicDesInGame1	┋	攻击力+25%\n暴击率+25%	┋	Attack damage +25%\nCrit chance +25%	┋	攻擊力+25%\n暴擊率+25%
