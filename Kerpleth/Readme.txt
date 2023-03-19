@@ -3,8 +3,8 @@ Directory structure of a mod folder
 
 1. "About" (compulsory): 
 This folder should have the following two files:
-   1) An "About.json" file ¨C is used to store information such as the name of the mod author, description of the mod and etc.  This will be shown on your Steam Workshop page (more are explained in "Mods\Example\About\ About.json" file).
-   2)A "Preview.png" file ¨C this will be the preview image of the mod.
+   1) An "About.json" file â€“ is used to store information such as the name of the mod author, description of the mod and etc.  This will be shown on your Steam Workshop page (more are explained in "Mods\Example\About\ About.json" file).
+   2)A "Preview.png" file â€“ this will be the preview image of the mod.
 
 2. "Assemblies" (optional):
 For storing .dll files. 
@@ -28,32 +28,3 @@ If the configuration files in this folder have the same name as the ones in "Kep
 then the data will be updated to the files in "StreamingAssets\Config" when the game starts.
 If the ID used in the configuration file in this folder is the same as the one used in configuration file in "StreamingAssets\Config" folder, 
 then the data will be overwritten. If different IDs are used, then it will be added as a new data.
-
-
-************************************************************************************************************************************************************************************
-ModsÎÄ¼şÄ¿Â¼ËµÃ÷
-
-1¡¢AboutÎÄ¼ş¼Ğ£¨±ØÒªÎÄ¼ş¼Ğ£©
-ÓÃÓÚ´æ·ÅAbout.jsonÎÄ¼şºÍPreview.pngÎÄ¼ş£¬Ò»¸öÍêÕûµÄMod±ØĞë¾ß±¸ÕâÁ½¸öÎÄ¼ş£¬È±Ò»²»¿É¡£
-
-*About.json£ºÓÃÓÚ´¢´æMod×÷Õß¡¢¹¦ÄÜ½éÉÜµÈĞÅÏ¢£¬ËüÃÇ½«³öÏÖÓÚ¸ÃModµÄÏêÇéÒ³£¨ÎÄ¼şÄÚÓĞÏêÏ¸×¢ÊÍ£©
-*Preview.png£º¸ÃÍ¼Æ¬½«×÷Îª·âÃæ³öÏÖÓÚModµÄÏêÇéÒ³¡£
-
-2¡¢AssembliesÎÄ¼ş¼Ğ£¨¿ÉÑ¡£©
-  ÓÃÓÚ´æ·ÅËùÓĞ.dll¸ñÊ½µÄÎÄ¼ş£¬¿Í»§¶Ë½«¶ÁÈ¡Õâ¸öÎÄ¼ş¼ĞÀïµÄ.dllÎÄ¼ş£¬²¢Ö´ĞĞËùÓĞ´øÓĞ [StaticConstructorOnStartup] ÀàµÄ¾²Ì¬¹¹Ôìº¯Êı¡£
-
-3¡¢SoundsÎÄ¼ş¼Ğ£¨¿ÉÑ¡£©
-  ÓÃÓÚ´æ·Å.wav¸ñÊ½µÄÒôÀÖÎÄ¼ş£¬Ä¿Ç°²»Ö§³ÖÆäËûÒôÀÖ¸ñÊ½¡£ 
-
-4¡¢TexturesÎÄ¼ş¼Ğ£¨¿ÉÑ¡£©
-ÓÃÓÚ´æ·Å.png¸ñÊ½µÄÍ¼Æ¬ÎÄ¼şºÍ¡°TextureInfos.json¡±ÎÄ¼ş£¬³ı.pngÍâÄ¿Ç°²»Ö§³ÖÆäËûµÄÍ¼Æ¬¸ñÊ½¡£
-TextureInfos.json: ÓÃÓÚÉèÖÃÍ¼Æ¬µÄÃªµãĞÅÏ¢£¬ÎÄ¼şÄÚÓĞÏêÏ¸×¢ÊÍ¡£
-
-5¡¢LanguageÎÄ¼ş¼Ğ£¨¿ÉÑ¡£©
-  ÓÃÓÚ´æ·ÅModLanguage.txtÎÄ¼ş£¨²»¿ÉĞŞ¸ÄÎÄ¼şÃû£©¡£µ±¿Í»§¶ËÔØÈë¸ÃModÊ±£¬»á½«ÆäÄÚÈİºÏ²¢µ½Keplerth_Data\StreamingAssets\Language\Language.txtÎÄ¼şÖĞ
-
-6¡¢ConfigsÎÄ¼ş¼Ğ£¨¿ÉÑ¡£©
-ÓÃÓÚ´æ·ÅËùÓĞ.json¸ñÊ½µÄÅäÖÃÎÄ¼ş¡£ÎÄ¼şÃûºÍÅäÖÃÄÚÈİ¿ÉÒÔ²Î¿¼Keplerth_Data\StreamingAssets\ConfigÎÄ¼ş¼ĞÖĞµÄËùÓĞÎÄ¼ş¡£
-µ±¿Í»§¶ËÔØÈë¸ÃModÊ±£¬»á½«ÆäÏàÍ¬Ãû×ÖµÄ.jsonÎÄ¼şµÄÄÚÈİºÏ²¢µ½Keplerth_Data\StreamingAssets\ConfigÖĞµÄ.jsonÎÄ¼şÖĞ¡£
-ÈôModµÄ.jsonÎÄ¼şÄÚµÄIDÓë¿Í»§¶ËµÄ.jsonÎÄ¼şÄÚµÄIDÏàÍ¬£¬Ôò½«Ëü¸²¸Ç£¬Èô²»Í¬ÔòĞÂÔö¡£
-
