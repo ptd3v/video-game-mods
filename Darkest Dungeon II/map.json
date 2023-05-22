@@ -1,0 +1,593 @@
+{
+  "Version": 11,
+  "seed": 1699676447,
+  "wasDriving": true,
+  "vehicleParentPos": [
+    1005.0,
+    0.0,
+    -2975.0
+  ],
+  "stagecoachData": {
+    "m_horsesPos": [
+      16.786499,
+      1.78813934E-07,
+      984.7479
+    ],
+    "m_horsesRot": [
+      0.0,
+      0.285632581,
+      0.0,
+      0.9583393
+    ],
+    "m_coachPos": [
+      16.7009888,
+      -6.556511E-07,
+      986.1472
+    ],
+    "m_coachRot": [
+      -0.00507392548,
+      0.285608917,
+      -0.00415488426,
+      0.9583239
+    ]
+  },
+  "previousRatioBetweenNodes": 0.8,
+  "map": {
+    "m_startNodeType": null,
+    "m_lastVisitedNodeRowIndex": 4,
+    "m_lastVisitedNodeIndex": 0,
+    "m_biomeIndex": 0,
+    "m_biomeScaffolds": [
+      {
+        "m_biomeGoal": null,
+        "m_rowScaffolds": [
+          {
+            "m_genSeed": 1652894720,
+            "m_rowIndex": 0,
+            "m_numberOfNodes": 1,
+            "m_overriden": true,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r0",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 4,
+            "m_straightBufferAfterRow": 1,
+            "m_endYCoord": 6,
+            "m_laneYCoord": 2,
+            "m_startYCoord": 0,
+            "m_nodeCoords": [
+              {
+                "m_X": 28,
+                "m_Y": 0
+              }
+            ],
+            "m_nodeLinks": [
+              {
+                "m_startIndex": 0,
+                "m_endIndex": 0,
+                "m_row": 0,
+                "m_roadEventQtys": [
+                  0,
+                  0,
+                  0,
+                  -1
+                ],
+                "m_Route": "route_safe"
+              }
+            ],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "GameResults",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          },
+          {
+            "m_genSeed": 512883520,
+            "m_rowIndex": 1,
+            "m_numberOfNodes": 1,
+            "m_overriden": true,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r1",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 3,
+            "m_straightBufferAfterRow": 1,
+            "m_endYCoord": 19,
+            "m_laneYCoord": 16,
+            "m_startYCoord": 7,
+            "m_nodeCoords": [
+              {
+                "m_X": 28,
+                "m_Y": 7
+              }
+            ],
+            "m_nodeLinks": [
+              {
+                "m_startIndex": 0,
+                "m_endIndex": 0,
+                "m_row": 1,
+                "m_roadEventQtys": [
+                  0,
+                  0,
+                  0,
+                  -1
+                ],
+                "m_Route": "route_safe"
+              }
+            ],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "AltarOfHope",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          },
+          {
+            "m_genSeed": 1189337216,
+            "m_rowIndex": 2,
+            "m_numberOfNodes": 1,
+            "m_overriden": true,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r2",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 7,
+            "m_straightBufferAfterRow": 1,
+            "m_endYCoord": 63,
+            "m_laneYCoord": 39,
+            "m_startYCoord": 20,
+            "m_nodeCoords": [
+              {
+                "m_X": 28,
+                "m_Y": 20
+              }
+            ],
+            "m_nodeLinks": [
+              {
+                "m_startIndex": 0,
+                "m_endIndex": 0,
+                "m_row": 2,
+                "m_roadEventQtys": [
+                  0,
+                  0,
+                  0,
+                  -1
+                ],
+                "m_Route": "route_safe"
+              }
+            ],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "BossSelect",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          },
+          {
+            "m_genSeed": 1495751552,
+            "m_rowIndex": 3,
+            "m_numberOfNodes": 1,
+            "m_overriden": true,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r3",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 3,
+            "m_straightBufferAfterRow": 3,
+            "m_endYCoord": 80,
+            "m_laneYCoord": 75,
+            "m_startYCoord": 64,
+            "m_nodeCoords": [
+              {
+                "m_X": 28,
+                "m_Y": 64
+              }
+            ],
+            "m_nodeLinks": [
+              {
+                "m_startIndex": 0,
+                "m_endIndex": 0,
+                "m_row": 3,
+                "m_roadEventQtys": [
+                  3,
+                  0,
+                  0,
+                  -1
+                ],
+                "m_Route": "route_safe"
+              }
+            ],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "HeroSelect",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          },
+          {
+            "m_genSeed": 1171295360,
+            "m_rowIndex": 4,
+            "m_numberOfNodes": 1,
+            "m_overriden": true,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r4",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 2,
+            "m_straightBufferAfterRow": 3,
+            "m_endYCoord": 100,
+            "m_laneYCoord": 95,
+            "m_startYCoord": 81,
+            "m_nodeCoords": [
+              {
+                "m_X": 30,
+                "m_Y": 81
+              }
+            ],
+            "m_nodeLinks": [
+              {
+                "m_startIndex": 0,
+                "m_endIndex": 0,
+                "m_row": 4,
+                "m_roadEventQtys": [
+                  3,
+                  0,
+                  0,
+                  -1
+                ],
+                "m_Route": "route_valley_combat"
+              }
+            ],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "Bridge",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          },
+          {
+            "m_genSeed": 1552906624,
+            "m_rowIndex": 5,
+            "m_numberOfNodes": 1,
+            "m_overriden": false,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r5",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 2,
+            "m_straightBufferAfterRow": 2,
+            "m_endYCoord": 119,
+            "m_laneYCoord": 114,
+            "m_startYCoord": 101,
+            "m_nodeCoords": [
+              {
+                "m_X": 30,
+                "m_Y": 101
+              }
+            ],
+            "m_nodeLinks": [
+              {
+                "m_startIndex": 0,
+                "m_endIndex": 0,
+                "m_row": 5,
+                "m_roadEventQtys": [
+                  -1,
+                  -1,
+                  -1,
+                  -1
+                ],
+                "m_Route": "route_safe"
+              }
+            ],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "Inn",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          },
+          {
+            "m_genSeed": 88302600,
+            "m_rowIndex": 6,
+            "m_numberOfNodes": 1,
+            "m_overriden": false,
+            "m_genRandomId": {
+              "m_id": "b0_1605217920_r6",
+              "m_saved": true
+            },
+            "m_straightBufferBeforeRow": 2,
+            "m_straightBufferAfterRow": 2,
+            "m_endYCoord": 120,
+            "m_laneYCoord": 120,
+            "m_startYCoord": 120,
+            "m_nodeCoords": [
+              {
+                "m_X": 30,
+                "m_Y": 120
+              }
+            ],
+            "m_nodeLinks": [],
+            "m_nodeInstances": [
+              {
+                "m_NodeType": "Dummy",
+                "m_IsGenerated": true,
+                "m_NodeSubType": null,
+                "m_LootRewards": []
+              }
+            ]
+          }
+        ],
+        "m_lightingSeed": 1650270856,
+        "m_nodeQty": 4,
+        "m_numberOfMiddleRows": 4,
+        "m_biomeGenData": {
+          "m_type": {
+            "name": "Valley"
+          },
+          "m_runLength": 0,
+          "m_biomeRowSetConfigurationIndex": 0
+        },
+        "m_nodeBank": {
+          "m_nodeQuantities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "m_conditionType": "nothing_then_intro",
+        "m_lastEndNodeRowIndex": 5,
+        "m_overriden": true,
+        "m_startNodeType": null,
+        "m_biomeIndex": 0,
+        "m_numberOfRows": 6,
+        "m_firstMiddleRowIndex": 1
+      }
+    ],
+    "m_biomeOverrideOrder": null,
+    "m_nextRowIndex": 7,
+    "m_carriageRowIndex": 4,
+    "RowData": {
+      "nodeTrig": [
+        "Completed"
+      ],
+      "roadEvtTrig": [
+        [
+          "Completed",
+          "Completed",
+          "Completed"
+        ],
+        [],
+        [],
+        [
+          "Completed"
+        ]
+      ]
+    },
+    "TileCounterData": {
+      "m_counters": [
+        [
+          [
+            "[cc494c504a1f5564f8f5343656ec74e0]",
+            10
+          ],
+          [
+            "[a285d41c347da3a4aaaa118b5c17a1c3]",
+            3
+          ],
+          [
+            "[99ad597c2aadd7e41a64855ed920232a]",
+            4
+          ],
+          [
+            "[1226faa1121bf2644b43b441648c755e]",
+            7
+          ],
+          [
+            "[89492a4950ad9344b95ab0c11b352d7a]",
+            1
+          ],
+          [
+            "[99ecd8b326972144fb31e19b06f08b61]",
+            46
+          ],
+          [
+            "[c8dc989d9ed9ae74798763af951903c5]",
+            8
+          ],
+          [
+            "[33cd22a780df7c8419425ea45adbc63e]",
+            1
+          ]
+        ],
+        [
+          [
+            "[cc494c504a1f5564f8f5343656ec74e0]",
+            10
+          ],
+          [
+            "[a285d41c347da3a4aaaa118b5c17a1c3]",
+            3
+          ],
+          [
+            "[99ad597c2aadd7e41a64855ed920232a]",
+            4
+          ],
+          [
+            "[1226faa1121bf2644b43b441648c755e]",
+            7
+          ],
+          [
+            "[89492a4950ad9344b95ab0c11b352d7a]",
+            1
+          ],
+          [
+            "[99ecd8b326972144fb31e19b06f08b61]",
+            46
+          ],
+          [
+            "[c8dc989d9ed9ae74798763af951903c5]",
+            8
+          ],
+          [
+            "[33cd22a780df7c8419425ea45adbc63e]",
+            1
+          ]
+        ],
+        []
+      ]
+    }
+  },
+  "minimap": [
+    [
+      {
+        "m_linkChosenState": [
+          "CHOSEN"
+        ],
+        "m_linkRevealedStatus": [
+          true
+        ],
+        "m_iconChosenState": [
+          "CHOSEN"
+        ],
+        "m_iconRevealedStatus": [
+          true
+        ]
+      },
+      {
+        "m_linkChosenState": [
+          "CHOSEN"
+        ],
+        "m_linkRevealedStatus": [
+          true
+        ],
+        "m_iconChosenState": [
+          "CHOSEN"
+        ],
+        "m_iconRevealedStatus": [
+          true
+        ]
+      },
+      {
+        "m_linkChosenState": [
+          "CHOSEN"
+        ],
+        "m_linkRevealedStatus": [
+          true
+        ],
+        "m_iconChosenState": [
+          "CHOSEN"
+        ],
+        "m_iconRevealedStatus": [
+          true
+        ]
+      },
+      {
+        "m_linkChosenState": [
+          "CHOSEN"
+        ],
+        "m_linkRevealedStatus": [
+          true
+        ],
+        "m_iconChosenState": [
+          "CHOSEN"
+        ],
+        "m_iconRevealedStatus": [
+          true
+        ]
+      },
+      {
+        "m_linkChosenState": [
+          "CHOSEN"
+        ],
+        "m_linkRevealedStatus": [
+          true
+        ],
+        "m_iconChosenState": [
+          "CHOSEN"
+        ],
+        "m_iconRevealedStatus": [
+          true
+        ]
+      },
+      {
+        "m_linkChosenState": [],
+        "m_linkRevealedStatus": [],
+        "m_iconChosenState": [
+          "UPCOMING"
+        ],
+        "m_iconRevealedStatus": [
+          true
+        ]
+      }
+    ]
+  ],
+  "lastGameScore": {
+    "m_gameOverReason": "cash_out",
+    "m_endBiomeType": "ValleyIntro",
+    "m_Scores": [
+      [
+        "leagues_passed",
+        20
+      ],
+      [
+        "fights_won",
+        2
+      ],
+      [
+        "start_biomes_cleared",
+        1
+      ],
+      [
+        "academics_honorarium",
+        0
+      ],
+      [
+        "inventory",
+        3
+      ]
+    ],
+    "m_ScoreBonusMultipliers": [],
+    "m_ScorePenaltyMultipliers": []
+  }
+}

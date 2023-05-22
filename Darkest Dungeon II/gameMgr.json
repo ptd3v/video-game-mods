@@ -1,0 +1,23 @@
+{
+  "Version": 0,
+  "m_score": {
+    "m_gameOverReason": null,
+    "m_endBiomeType": null,
+    "m_Scores": [
+      [
+        "leagues_passed",
+        20
+      ],
+      [
+        "fights_won",
+        1
+      ],
+      [
+        "start_biomes_cleared",
+        1
+      ]
+    ],
+    "m_ScoreBonusMultipliers": [],
+    "m_ScorePenaltyMultipliers": []
+  }
+}

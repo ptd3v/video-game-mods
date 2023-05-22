@@ -1,0 +1,42 @@
+{
+  "Version": 0,
+  "m_stageCoachName": "The Last Hope",
+  "general_slots": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "trophy_slots": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "pet_slots": {
+    "m_acceptsOverflow": false,
+    "m_items": [],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "flame_slots": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  }
+}

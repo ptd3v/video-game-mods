@@ -1,0 +1,33 @@
+{
+  "Version": 0,
+  "m_Entries": [
+    {
+      "m_ActorClassId": "man_at_arms",
+      "m_ActorGuid": 10,
+      "m_RosterStatus": "party",
+      "m_RosterStatusDurationCounts": null,
+      "m_SourceActorGuid": 0
+    },
+    {
+      "m_ActorClassId": "highwayman",
+      "m_ActorGuid": 11,
+      "m_RosterStatus": "party",
+      "m_RosterStatusDurationCounts": null,
+      "m_SourceActorGuid": 0
+    },
+    {
+      "m_ActorClassId": "grave_robber",
+      "m_ActorGuid": 12,
+      "m_RosterStatus": "party",
+      "m_RosterStatusDurationCounts": null,
+      "m_SourceActorGuid": 0
+    },
+    {
+      "m_ActorClassId": "plague_doctor",
+      "m_ActorGuid": 13,
+      "m_RosterStatus": "party",
+      "m_RosterStatusDurationCounts": null,
+      "m_SourceActorGuid": 0
+    }
+  ]
+}

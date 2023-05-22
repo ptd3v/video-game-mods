@@ -1,0 +1,10 @@
+{
+  "Version": 0,
+  "values": {
+    "torch": 100.0,
+    "hero_upgrade_points": 5.0,
+    "doom": 0.0,
+    "stage_coach_armor": 2.0,
+    "stage_coach_wheels": 2.0
+  }
+}

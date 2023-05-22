@@ -1,0 +1,42 @@
+{
+  "Version": 0,
+  "m_Chapters": [
+    {
+      "m_GameModePhaseCounter": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "m_ActorMeltdownCounts": [],
+      "m_MeltdownActorLogData": [],
+      "m_Phases": [
+        {
+          "m_Occurance": 0,
+          "m_GameMode": "DRIVING",
+          "entries": [
+            {
+              "m_InnDefinition": "valley",
+              "type": "Assets.Code.Run.RunLogEntry.InnLogEntry"
+            },
+            {
+              "m_biomeSubType": "start",
+              "type": "Assets.Code.Run.RunLogEntry.BiomeCompleteLogEntry"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

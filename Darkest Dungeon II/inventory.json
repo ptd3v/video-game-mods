@@ -1,0 +1,90 @@
+{
+  "Version": 0,
+  "m_acceptsOverflow": true,
+  "m_items": [
+    {
+      "def": "gold",
+      "qty": 400,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Relics"
+    },
+    {
+      "def": "gold",
+      "qty": 400,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Relics"
+    },
+    {
+      "def": "valley_baubles",
+      "qty": 69,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Rural Riches"
+    },
+    {
+      "def": "trinket_hoarder_fates_foreteller",
+      "qty": 69,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Fate's Foreteller"
+    },
+    {
+      "def": "trinket_hoarder_mortal_ward",
+      "qty": 1,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Mortal Ward"
+    },
+    {
+      "def": "trinket_forest_blistering_bugle",
+      "qty": 1,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Blistering Bugle"
+    },
+    {
+      "def": "trinket_city_hastening_history",
+      "qty": 1,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Hastening History"
+    },
+    {
+      "def": "torch_consumable",
+      "qty": 20,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "A Glimmer of Hope"
+    },
+    {
+      "def": "trinket_tiered_heartseeker_greater",
+      "qty": 4,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Heartseeker"
+    },
+    {
+      "def": "trinket_tiered_sharpness_charm_greater",
+      "qty": 4,
+      "pQty": 0,
+      "duration_amount_remaining": 0,
+      "name": "Sharpness Charm"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "m_NumberOfRunStatSlots": 0,
+  "m_ignoresMaxQty": false,
+  "m_sendsEvents": true,
+  "m_expands": false
+}

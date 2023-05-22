@@ -1,0 +1,219 @@
+{
+  "Version": 0,
+  "inn": {
+    "m_InnDefinition": "thegoodplace",
+    "m_InnBonusDefinitions": [],
+    "m_storeViewed": false,
+    "m_HireActorGuids": [],
+    "m_InnKeeperIndex": 5,
+    "m_BiomeChoices": [
+      {
+        "m_BiomeGenerationData": {
+          "m_type": {
+            "name": "Forest"
+          },
+          "m_runLength": 0,
+          "m_biomeRowSetConfigurationIndex": 0
+        },
+        "m_BiomeGoal": "keep_torch_high",
+        "m_BiomeGoalReward": {
+          "m_BiomeGoalId": "keep_torch_high",
+          "m_BiomeGoalRewardDefinition": "biome_reward_candle",
+          "m_LootPreRoll": {
+            "m_Id": "keep_torch_high",
+            "m_LootRewards": [
+              {
+                "m_type": "item",
+                "m_id": "candles",
+                "m_qty": 69
+              }
+            ]
+          }
+        },
+        "m_BiomeModifier": "untouched"
+      },
+      {
+        "m_BiomeGenerationData": {
+          "m_type": {
+            "name": "City"
+          },
+          "m_runLength": 0,
+          "m_biomeRowSetConfigurationIndex": 2
+        },
+        "m_BiomeGoal": "keep_torch_high",
+        "m_BiomeGoalReward": {
+          "m_BiomeGoalId": "keep_torch_high",
+          "m_BiomeGoalRewardDefinition": "biome_reward_sc_upgrade",
+          "m_LootPreRoll": {
+            "m_Id": "keep_torch_high",
+            "m_LootRewards": [
+              {
+                "m_type": "item",
+                "m_id": "strongbox",
+                "m_qty": 68
+              }
+            ]
+          }
+        },
+        "m_BiomeModifier": "untouched"
+      }
+    ],
+    "m_SelectedBiomeChoiceIndex": -1,
+    "store_inventory": {
+      "m_acceptsOverflow": false,
+      "m_items": [
+        {
+          "def": "radiant_torch_L1",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "The Radiant Flame I"
+        },
+        {
+          "def": "bandages",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Bandages"
+        },
+        {
+          "def": "antivenom",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Antivenom"
+        },
+        {
+          "def": "burn_salve",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Burn Salve"
+        },
+        {
+          "def": "torch_consumable",
+          "qty": 6,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "A Glimmer of Hope"
+        },
+        {
+          "def": "smoke_bomb",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Smoke Bomb"
+        },
+        {
+          "def": "laudanum",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Laudanum"
+        },
+        {
+          "def": "food_1",
+          "qty": 4,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Slime Mold"
+        },
+        {
+          "def": "clotting_poultice",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Clotting Poultice"
+        },
+        {
+          "def": "whiskey_flask",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Whiskey Flask"
+        },
+        {
+          "def": "playing_cards",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Playing Cards"
+        },
+        {
+          "def": "wax_innoculant",
+          "qty": 2,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Wax Inoculant"
+        },
+        {
+          "def": "leaf_suspension",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Leaf Suspension"
+        },
+        {
+          "def": "griddle",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Griddle"
+        },
+        {
+          "def": "worktable_loom",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Worktable Loom"
+        },
+        {
+          "def": "academics_map",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Academic's Map"
+        },
+        {
+          "def": "trinket_tiered_hale_draught_minor",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Minor Hale Draught"
+        },
+        {
+          "def": "trinket_tiered_heat_shield_minor",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Minor Heat Shield"
+        },
+        {
+          "def": "trinket_tiered_heat_shield",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Heat Shield"
+        },
+        {
+          "def": "trinket_tiered_gilded_mind",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Gilded Mind"
+        },
+        {
+          "def": "trinket_tiered_hale_draught_greater",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "Greater Hale Draught"
+        }
+      ],
+      "m_NumberOfRunStatSlots": 0,
+      "m_ignoresMaxQty": true,
+      "m_sendsEvents": true,
+      "m_expands": true
+    }
+  }
+}

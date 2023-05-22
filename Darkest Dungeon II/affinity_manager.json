@@ -1,0 +1,65 @@
+{
+  "Version": 2,
+  "m_Connections": [
+    {
+      "m_Leaning": 9,
+      "m_ActorGuids": [
+        10,
+        11
+      ],
+      "m_CalculatedRelationship": null,
+      "m_PreviousRelationship": null,
+      "m_CurrentRelationship": null
+    },
+    {
+      "m_Leaning": 9,
+      "m_ActorGuids": [
+        10,
+        12
+      ],
+      "m_CalculatedRelationship": null,
+      "m_PreviousRelationship": null,
+      "m_CurrentRelationship": null
+    },
+    {
+      "m_Leaning": 9,
+      "m_ActorGuids": [
+        11,
+        12
+      ],
+      "m_CalculatedRelationship": null,
+      "m_PreviousRelationship": null,
+      "m_CurrentRelationship": null
+    },
+    {
+      "m_Leaning": 9,
+      "m_ActorGuids": [
+        10,
+        13
+      ],
+      "m_CalculatedRelationship": null,
+      "m_PreviousRelationship": null,
+      "m_CurrentRelationship": null
+    },
+    {
+      "m_Leaning": 9,
+      "m_ActorGuids": [
+        11,
+        13
+      ],
+      "m_CalculatedRelationship": null,
+      "m_PreviousRelationship": null,
+      "m_CurrentRelationship": null
+    },
+    {
+      "m_Leaning": 9,
+      "m_ActorGuids": [
+        12,
+        13
+      ],
+      "m_CalculatedRelationship": null,
+      "m_PreviousRelationship": null,
+      "m_CurrentRelationship": null
+    }
+  ]
+}

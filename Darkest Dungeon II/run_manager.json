@@ -1,0 +1,44 @@
+{
+  "Version": 5,
+  "m_Boss": "brain",
+  "m_runStartTimestamp": "05/14/2023 21:11:26",
+  "m_timeAtSave": 4377.729,
+  "m_BanterActOutCount": 0,
+  "m_BanterTickTriggerCount": 0,
+  "m_PreviousCompletedBiomeGoalReward": null,
+  "m_CurrentBiomeModifier": null,
+  "m_CurrentBiomeGoalReward": null,
+  "m_CurrentBiomeGoalState": "INACTIVE",
+  "m_CurrentBiomeGoal": null,
+  "m_BiomeCompletedCombatTags": [],
+  "m_InnDefinition": "valley",
+  "m_InnBonusDefinitions": [],
+  "m_LastReachedNodeType": "Inn",
+  "m_HasAppliedBeforeNodeEffects": true,
+  "m_HasAppliedAfterNodeEffects": true,
+  "m_BiomeHistory": [
+    "Valley"
+  ],
+  "m_NodeCount": 6,
+  "m_RoundCount": 2,
+  "m_CombatCount": 1,
+  "m_InnCount": 1,
+  "m_CombatGuid": "b2477861-c937-4bf6-bc7f-597d6d5f1d49",
+  "m_InnGuid": "5c33fc41-4216-4123-87a1-70052f1d32b6",
+  "m_HeroPointCount": 5,
+  "m_DoomResetCount": 0,
+  "m_BiomeExecutedNodeTypes": [
+    "GameResults",
+    "AltarOfHope",
+    "BossSelect",
+    "HeroSelect",
+    "Bridge"
+  ],
+  "m_BiomeStartedCombatSources": [
+    "barricade"
+  ],
+  "m_BiomeCompletedCombatSources": [
+    "barricade"
+  ],
+  "m_BiomeStartedCombatTags": []
+}

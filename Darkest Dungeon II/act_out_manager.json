@@ -1,0 +1,29 @@
+{
+  "Version": 3,
+  "m_ActOutQueues": [
+    {
+      "m_Type": "COMBAT",
+      "m_Elements": [],
+      "m_IsElementsProcessed": false,
+      "m_ActOutCooldowns": []
+    },
+    {
+      "m_Type": "BANTER",
+      "m_Elements": [],
+      "m_IsElementsProcessed": false,
+      "m_ActOutCooldowns": []
+    },
+    {
+      "m_Type": "STORY",
+      "m_Elements": [],
+      "m_IsElementsProcessed": false,
+      "m_ActOutCooldowns": []
+    },
+    {
+      "m_Type": "INN",
+      "m_Elements": [],
+      "m_IsElementsProcessed": false,
+      "m_ActOutCooldowns": []
+    }
+  ]
+}

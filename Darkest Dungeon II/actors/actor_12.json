@@ -1,0 +1,368 @@
+{
+  "m_ActorGuid": 12,
+  "m_ActorSkinId": null,
+  "m_ActorWeaponKitId": null,
+  "m_ActorPaletteId": null,
+  "m_ActorDataIds": [
+    "grave_robber"
+  ],
+  "m_CompletedRunGoalIds": [],
+  "m_RunGoalDefinition": "t_visit_city",
+  "m_UnlockContainer": {
+    "m_Unlocks": [],
+    "m_UnlockTrackSpentProfileValues": []
+  },
+  "m_ItemTagUseHistory": [],
+  "m_ItemUseHistory": [],
+  "m_SkillCooldownHistory": [],
+  "m_SkillReceivedHistory": [],
+  "m_CombatSkills": [
+    {
+      "m_SkillId": "gr_pick_to_the_face",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_thrown_dagger",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_flashing_daggers",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_poison_dart",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_artemisia",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_move",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": true,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pass_heal",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": true,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pass_stress",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": true,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_dead_of_night",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_glint_in_the_dark",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_lunge",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_pirouette",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_repartee",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "gr_shadow_fade",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    }
+  ],
+  "m_CombatSkillReplacements": [],
+  "m_SkillUseHistory": [],
+  "m_ActorCountInstances": [
+    {
+      "m_ActorCountType": "node_reached",
+      "m_ActorCountSubType": "Bridge",
+      "m_Id": "node_reached_Bridge",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "skill_use",
+      "m_ActorCountSubType": "gr_poison_dart",
+      "m_Id": "skill_use_gr_poison_dart",
+      "m_Count": 2
+    },
+    {
+      "m_ActorCountType": "node_reached",
+      "m_ActorCountSubType": "Inn",
+      "m_Id": "node_reached_Inn",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "inn_visit",
+      "m_ActorCountSubType": null,
+      "m_Id": "inn_visit",
+      "m_Count": 1
+    }
+  ],
+  "m_CurrentBattleDeathblowCheckCount": 0,
+  "m_CurrentBattleTurnType": null,
+  "m_ActorName": "Audrey",
+  "m_IsInRun": true,
+  "m_IsHired": false,
+  "m_TeamPosition": 2,
+  "m_IsCaptured": false,
+  "m_IsSpawned": true,
+  "m_IsInParty": true,
+  "m_IsLiving": true,
+  "m_IsInInn": true,
+  "m_IsInBattle": false,
+  "m_FrontRank": 2,
+  "m_BattleStartTeamPosition": 0,
+  "m_BattleStartFrontRank": 0,
+  "m_RoundCount": 1,
+  "m_TurnCount": 2,
+  "m_Stress": 0.0,
+  "m_Hp": 29.0,
+  "combat_inventory": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "trinket_inventory": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null,
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "memory_inventory": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "BuffContainer": [
+    {
+      "m_Definition": "first_inn_relationship_pos_relationship_reduction",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 1,
+      "m_IsNoDurationComplete": true,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "inn",
+      "m_SourceId": "valley",
+      "m_SourceActorGuid": 12,
+      "m_Viewed": false
+    },
+    {
+      "m_Definition": "first_inn_relationship_neg_relationship_reduction",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 1,
+      "m_IsNoDurationComplete": true,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "inn",
+      "m_SourceId": "valley",
+      "m_SourceActorGuid": 12,
+      "m_Viewed": false
+    }
+  ],
+  "TokenContainer": [],
+  "DotContainer": [],
+  "QuirkContainer": [
+    {
+      "m_Definition": "quirk_sunny_disposition_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_peacemaker_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_compassionate_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_tactical_thinker_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_natural_eye_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_deathless_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_deadly_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_pacifist_neg",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    }
+  ],
+  "actor_path": "wanderer"
+}

@@ -1,0 +1,422 @@
+{
+  "m_ActorGuid": 13,
+  "m_ActorSkinId": null,
+  "m_ActorWeaponKitId": null,
+  "m_ActorPaletteId": null,
+  "m_ActorDataIds": [
+    "plague_doctor"
+  ],
+  "m_CompletedRunGoalIds": [],
+  "m_RunGoalDefinition": "t_kill_pillager",
+  "m_UnlockContainer": {
+    "m_Unlocks": [],
+    "m_UnlockTrackSpentProfileValues": []
+  },
+  "m_ItemTagUseHistory": [],
+  "m_ItemUseHistory": [],
+  "m_SkillCooldownHistory": [],
+  "m_SkillReceivedHistory": [],
+  "m_CombatSkills": [
+    {
+      "m_SkillId": "pd_noxious_blast",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_blinding_gas",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_incision",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_battlefield_medicine",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_ounce_of_prevention",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_move",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": true,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pass_heal",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": true,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pass_stress",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": true,
+      "m_IsEquipped": true,
+      "m_IsUnlocked": true,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_plague_grenade",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_emboldening_vapours",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_disorienting_blast",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_indiscriminate_science",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_cause_of_death",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    },
+    {
+      "m_SkillId": "pd_magnesium_rain",
+      "m_SourceType": "class",
+      "m_IsAlwaysEquipped": false,
+      "m_IsEquipped": false,
+      "m_IsUnlocked": false,
+      "m_SkillModifier": null
+    }
+  ],
+  "m_CombatSkillReplacements": [],
+  "m_SkillUseHistory": [],
+  "m_ActorCountInstances": [
+    {
+      "m_ActorCountType": "node_reached",
+      "m_ActorCountSubType": "Bridge",
+      "m_Id": "node_reached_Bridge",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "skill_use",
+      "m_ActorCountSubType": "pd_noxious_blast",
+      "m_Id": "skill_use_pd_noxious_blast",
+      "m_Count": 2
+    },
+    {
+      "m_ActorCountType": "kill_actor_id",
+      "m_ActorCountSubType": "shared_lost_soul_urchin",
+      "m_Id": "kill_actor_id_shared_lost_soul_urchin",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "monster",
+      "m_Id": "kill_actor_tag_monster",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "gaunt",
+      "m_Id": "kill_actor_tag_gaunt",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "weak",
+      "m_Id": "kill_actor_tag_weak",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "brain_blessing",
+      "m_Id": "kill_actor_tag_brain_blessing",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "lungs_blessing",
+      "m_Id": "kill_actor_tag_lungs_blessing",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "eyes_blessing",
+      "m_Id": "kill_actor_tag_eyes_blessing",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "arms_blessing",
+      "m_Id": "kill_actor_tag_arms_blessing",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "kill_actor_tag",
+      "m_ActorCountSubType": "final_blessing",
+      "m_Id": "kill_actor_tag_final_blessing",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "node_reached",
+      "m_ActorCountSubType": "Inn",
+      "m_Id": "node_reached_Inn",
+      "m_Count": 1
+    },
+    {
+      "m_ActorCountType": "inn_visit",
+      "m_ActorCountSubType": null,
+      "m_Id": "inn_visit",
+      "m_Count": 1
+    }
+  ],
+  "m_CurrentBattleDeathblowCheckCount": 0,
+  "m_CurrentBattleTurnType": null,
+  "m_ActorName": "Paracelsus",
+  "m_IsInRun": true,
+  "m_IsHired": false,
+  "m_TeamPosition": 3,
+  "m_IsCaptured": false,
+  "m_IsSpawned": true,
+  "m_IsInParty": true,
+  "m_IsLiving": true,
+  "m_IsInInn": true,
+  "m_IsInBattle": false,
+  "m_FrontRank": 3,
+  "m_BattleStartTeamPosition": 0,
+  "m_BattleStartFrontRank": 0,
+  "m_RoundCount": 1,
+  "m_TurnCount": 2,
+  "m_Stress": 0.0,
+  "m_Hp": 28.0,
+  "combat_inventory": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "trinket_inventory": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null,
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "memory_inventory": {
+    "m_acceptsOverflow": false,
+    "m_items": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "m_NumberOfRunStatSlots": 0,
+    "m_ignoresMaxQty": false,
+    "m_sendsEvents": true,
+    "m_expands": false
+  },
+  "BuffContainer": [
+    {
+      "m_Definition": "first_inn_relationship_pos_relationship_reduction",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 1,
+      "m_IsNoDurationComplete": true,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "inn",
+      "m_SourceId": "valley",
+      "m_SourceActorGuid": 13,
+      "m_Viewed": false
+    },
+    {
+      "m_Definition": "first_inn_relationship_neg_relationship_reduction",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 1,
+      "m_IsNoDurationComplete": true,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "inn",
+      "m_SourceId": "valley",
+      "m_SourceActorGuid": 13,
+      "m_Viewed": false
+    }
+  ],
+  "TokenContainer": [],
+  "DotContainer": [],
+  "QuirkContainer": [
+    {
+      "m_Definition": "quirk_sunny_disposition_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_peacemaker_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_compassionate_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_tactical_thinker_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_natural_eye_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_deathless_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_deadly_pos",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    },
+    {
+      "m_Definition": "quirk_pacifist_neg",
+      "m_LockedTeamPosition": -1,
+      "m_DurationAmountRemaining": 0,
+      "m_IsNoDurationComplete": false,
+      "m_ShouldRemoveOverride": false,
+      "m_RemoveAnyConditions": null,
+      "m_RemoveAllConditions": null,
+      "m_SourceType": "quirk",
+      "m_SourceId": null,
+      "m_SourceActorGuid": 0,
+      "m_addGroup": 1,
+      "m_locked": false,
+      "m_new": false
+    }
+  ],
+  "actor_path": "wanderer"
+}
